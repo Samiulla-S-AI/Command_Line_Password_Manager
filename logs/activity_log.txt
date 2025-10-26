@@ -1,0 +1,34 @@
+[2025-10-25 12:30:37] LOGIN_FAILED: Login attempt failed
+[2025-10-25 12:30:49] LOGIN: User logged in successfully
+[2025-10-25 12:31:50] GENERATE_PASSWORD: Generated new password
+[2025-10-25 12:31:51] ERROR: Unknown database 'password_manager_db'
+[2025-10-25 12:37:30] GENERATE_PASSWORD: Generated new password
+[2025-10-25 12:37:30] ADD_CREDENTIAL: Added credential for platform: sa
+[2025-10-25 12:38:20] VIEW_CREDENTIALS: Viewed all credentials
+[2025-10-25 12:38:45] CHECK_PASSWORD: Checked password strength
+[2025-10-25 12:43:55] LOGOUT: User logged out
+[2025-10-25 12:44:11] LOGIN: User logged in successfully
+[2025-10-25 12:45:00] ADD_CREDENTIAL: Added credential for platform: Google
+[2025-10-25 12:45:09] VIEW_CREDENTIALS: Viewed all credentials
+[2025-10-25 12:45:24] VIEW_PASSWORD: Viewed password for platform: Google
+[2025-10-25 12:54:12] EXPORT_BACKUP: Exported backup to: backup/passwords_backup_20251025_125412.txt
+[2025-10-25 12:56:33] DELETE_CREDENTIAL: Deleted credential for platform: sa
+[2025-10-25 12:57:49] DELETE_CREDENTIAL: Deleted credential for platform: Google
+[2025-10-25 14:14:52] LOGIN_FAILED: Login attempt failed
+[2025-10-25 14:15:00] LOGIN: User logged in successfully
+[2025-10-25 14:16:03] ADD_CREDENTIAL: Added credential for platform: Google
+[2025-10-25 14:16:07] VIEW_CREDENTIALS: Viewed all credentials
+[2025-10-25 14:16:28] VIEW_PASSWORD: Viewed password for platform: Google
+[2025-10-25 14:16:49] VIEW_CREDENTIALS: Viewed all credentials
+[2025-10-25 14:17:27] EXPORT_BACKUP: Exported backup to: backup/passwords_backup_20251025_141727.txt
+[2025-10-25 14:26:21] ERROR: Duplicate entry 'Google' for key 'credentials.unique_platform'
+[2025-10-25 14:27:42] ERROR: Duplicate entry 'Google' for key 'credentials.unique_platform'
+[2025-10-25 15:22:57] LOGIN: User logged in successfully
+[2025-10-25 15:23:48] ADD_CREDENTIAL: Added credential for platform: Instagram
+[2025-10-25 15:23:54] VIEW_CREDENTIALS: Viewed all credentials
+[2025-10-25 15:24:43] LOGIN: User logged in successfully
+[2025-10-25 15:25:23] UPDATE_CREDENTIAL: Updated credential for platform: Instagram
+[2025-10-25 15:25:27] VIEW_CREDENTIALS: Viewed all credentials
+[2025-10-25 15:25:52] VIEW_PASSWORD: Viewed password for platform: Google
+[2025-10-25 15:26:21] EXPORT_BACKUP: Exported backup to: backup/passwords_backup_20251025_152621.txt
+[2025-10-25 15:27:05] ERROR: Duplicate entry 'Google' for key 'credentials.unique_platform'

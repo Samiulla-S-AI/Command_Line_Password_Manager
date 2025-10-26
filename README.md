@@ -1,6 +1,18 @@
-# Command_Line_Password_Manager
-Command Line Password Manager is a Java console-based application designed to safely and securely manage your usernames, and passwords for different platforms. It stores all your authentication credentials in one place so you don't have to worry about forgetting them, and it also includes a strong password generator capability
+## Getting Started
 
+Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
+## Folder Structure
 
-You Can Try This Console App By Running Main.java File and Make sure You Config your Database in DatabaseConfig.java File Before Running Main App
+The workspace contains two folders by default, where:
+
+- `src`: the folder to maintain sources
+- `lib`: the folder to maintain dependencies
+
+Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+
+> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+
+## Dependency Management
+
+The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
